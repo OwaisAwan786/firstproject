@@ -4,19 +4,7 @@ import java.util.Scanner;
 public class helloword {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		
-		int x=10;
-		
-		for(int i = 1;i<=10 ;i++)
-	    {
-		    for(int j = 1;j<=x ;j++)
-		    {
-			    System.out.print("*");
-		    }
-		    
-		    x--;
-		 System.out.print(System.lineSeparator());   
+		System.out.println("hello world");  
 	    }
 	}
-}
+
